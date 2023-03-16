@@ -36,7 +36,7 @@ const MapContainer = ({ google }) => {
         <button type="submit">Search</button>
       </form>
       
-      <p>
+      <p> 
         Latitude: {lat}
       </p>
       <p>
